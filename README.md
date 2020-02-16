@@ -10,3 +10,11 @@ You will be given a random number at the start of the game. There are four cryst
 
 Click on the following link to preview the completed assignment.
 https://tsegenet-hub.github.io/crystal-collector/
+
+Built With:
+
+HTML5
+CSS3
+Bootstrap - Framework
+JavaScript
+jQuery - JavaScript Library
