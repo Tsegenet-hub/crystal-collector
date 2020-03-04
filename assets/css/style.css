@@ -1,20 +1,21 @@
-  /*font-family: 'Alfa Slab One', cursive;
+/*font-family: 'Alfa Slab One', cursive;
 font-family: 'Ek Mukta', sans-serif;*/
 
 /* Backgrounds */
 body {
-	background-image: url("../images/background2.jpg");
+  background-image: url("../images/background2.jpg");
 }
 
 .jumbotron {
-	background-color: #7dffe9;
+  background-color: #7cf8e3;
 }
 
-#gameSection, #scoreSection {
-	background-color: #7dffe9;
-	margin-left: auto;
-    margin-right: auto;
-    color: #000000;
+#gameSection,
+#scoreSection {
+  background-color: #7dffe9;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
 }
 
 /*FOR TESTING*/
@@ -23,42 +24,41 @@ body {
 }*/
 
 #buttonSection {
-
-	background-color: rgb(243, 243, 211);
-	padding: 0px;
-	padding-top: 50px;
-    padding-bottom: 25px;
+  background-color: rgb(243, 243, 211);
+  padding: 0px;
+  padding-top: 50px;
+  padding-bottom: 25px;
 }
 
 /* Fonts */
-h1, h2, h3 {
-        font-family: 'Lobster', cursive, 'sans-serif'; 
-      }
-
+h1,
+h2,
+h3 {
+  font-family: "Lobster", cursive;
+}
 
 p {
-    font-family: 'Lobster', cursive, 'sans-serif'; 
-    color: #000000;
+  font-family: "Lobster", cursive, "sans-serif";
+  color: #000000;
 }
 
 .numberBox {
-	font-size: 100px;
-    margin: 0px;
-    color: #000000;
+  font-size: 100px;
+  margin: 0px;
+  color: #000000;
 }
 
 /* images for buttons */
 .icons {
-	display: inline-block;
-  	max-width: 100px;
-  	max-height: 100px;
-  	width: auto;
-  	height: auto;
-      margin:10px;
-      color: #000000;
+  display: inline-block;
+  max-width: 100px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+  margin: 10px;
+  color: #000000;
 }
 
-  
-  .instructions {
-    text-align: center; 
-  }
+.instructions {
+  text-align: center;
+}
